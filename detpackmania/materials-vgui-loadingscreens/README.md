@@ -1,0 +1,1 @@
+Put ff_detpackfort_dpm.vtf and .vmt into "Fortress Forever\FortressForever\materials\vgui\loadingscreens"!!
