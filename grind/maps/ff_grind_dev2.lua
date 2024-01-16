@@ -14,7 +14,7 @@ IncludeScript("base_teamplay");
 -- global stuff
 -----------------------------------------------------------------------------
 
-
+function startup()
 	local team = GetTeam( Team.kBlue )
 	team:SetClassLimit(Player.kScout, 0)
 	team:SetClassLimit(Player.kSniper, 0)
